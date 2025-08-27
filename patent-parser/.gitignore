@@ -1,0 +1,28 @@
+# Dependencies
+/node_modules
+/.pnp
+.pnp.js
+
+# Next.js build output
+/.next/
+/out/
+
+# Production build
+/build
+
+# Static exports
+/dist
+
+# Miscellaneous
+.DS_Store
+*.pem
+*.log
+
+# Environment variables
+# IMPORTANT: Never commit .env files
+.env
+.env.*
+!.env.example
+
+# Local data storage
+/data
